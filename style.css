@@ -58,6 +58,12 @@
   .hero__image{
     width:100%
   }
+
+  .hero__text{
+    font-size: 25px;
+    color: #1d3557;
+    margin: 9px;
+  }
   
   @media (min-width: 768px){
   .navbar{
@@ -68,8 +74,8 @@
       width: 155px;
     }
     .button__primary{
-      padding: 15px;
-      font-size: 15px;
+      padding: 10px 15px;
+      font-size: 14px;
     }
   
     .hero__container{
