@@ -61,9 +61,11 @@ body{
 }
 
 .hero__text{
+  font-size: 25px;
   font-size: 27px;
   color: #1d3557;
   margin: 20px 0;
+  margin: 9px;
 }
 
 /* MENU STYLES */
@@ -74,9 +76,11 @@ body{
 }
 
 .explore_menu_text{
+  font-size: 25px;
   font-size: 27px;
   color: #1d3557;
   margin: 20px 0;
+  margin: 9px;
   text-align: center;
 }
 
@@ -234,12 +238,15 @@ body{
 
 
 
+
 @media (min-width: 1400px){
   .container{
     max-width: 1250px;
+
   
   }
   .hero__image__container{
     width:100%;
   }
+}
 }
