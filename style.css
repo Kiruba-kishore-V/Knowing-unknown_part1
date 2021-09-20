@@ -84,7 +84,7 @@ section {
 }
 
 .hero__image{
-  width:100%;
+  width:120%;
   position: absolute;
   right: auto;
   left: auto;
@@ -103,7 +103,8 @@ section {
 /* MENU STYLES */
 
 .explore_menu_container{
-  margin-top: 50px;
+  margin-top: 6rem;
+  width: 108%;
 
 }
 
@@ -143,6 +144,13 @@ section {
 }
 
 /* FLEX */
+
+.restaurants__container{
+  width: 108%;
+  height: auto;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
 
 .restaurants__description{
   font-size: 27px;
@@ -238,7 +246,7 @@ footer{
 
 .unordered_list{
   margin: 10px 0;
-  justify-content:space-around;
+  justify-content:space-between;
 }
 
 
